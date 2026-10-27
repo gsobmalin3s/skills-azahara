@@ -1,0 +1,804 @@
+{
+ "titulo": "Análisis de sector y competencia · Conservas Serrats",
+ "subtitulo": "Modo contexto (SWIN 1.5) · 27/10/2026 · Fuentes: web pública (citada) + análisis IA",
+ "hojas": [
+  {
+   "nombre": "Encuadre",
+   "columnas": [
+    "Campo",
+    "Valor"
+   ],
+   "filas": [
+    [
+     "Marca cliente",
+     "Conservas Serrats (Hijos de José Serrats, S.A.) — Bermeo"
+    ],
+    [
+     "Sector / subcategoría",
+     "Conservas de pescado · segmento premium del Cantábrico (bonito del norte y anchoa)"
+    ],
+    [
+     "Mercado geográfico",
+     "España (canal principal) + exportación a más de 25 países"
+    ],
+    [
+     "Segmento de precio",
+     "Premium: bonito ≈3,05 €/100 g; anchoa ≈9 €/100 g (tienda online, 27/10/2026)"
+    ],
+    [
+     "Canales de venta del cliente",
+     "Tienda online propia + Club Serrats, gourmet/horeca (distribuidores), gran distribución (Eroski, BM), exportación"
+    ],
+    [
+     "Objetivos / hipótesis de partida",
+     "No aportados: se asume foco en demanda (notoriedad, consideración y venta directa online)"
+    ],
+    [
+     "Fecha del análisis",
+     "27/10/2026"
+    ],
+    [
+     "Modo",
+     "Contexto · SWIN 1.5 Sector y competencia"
+    ]
+   ]
+  },
+  {
+   "nombre": "Tendencias",
+   "columnas": [
+    "Tendencia",
+    "Qué está pasando",
+    "Evidencia (cifra o hecho)",
+    "Fuente",
+    "Fecha fuente",
+    "Implicación para el cliente",
+    "Tipo de dato"
+   ],
+   "filas": [
+    [
+     "Exportación al alza",
+     "Las conservas españolas crecen fuera mientras el consumo interno de pescado baja",
+     "Exportación de conservas 2025: 244.389 t (+4,57 %) y 1.603 M€ (+6,7 %); mayor crecimiento fuera de la UE (América, África)",
+     "https://www.interempresas.net/Industria-Pescado/649989-industria-espanola-mar-impulsa-exportaciones-mientras-consumo-interno-sigue-baja.html",
+     "2026",
+     "Serrats ya está en +25 países: la exportación premium es una palanca con viento a favor",
+     "dato"
+    ],
+    [
+     "El pescado cae en casa; la conserva aguanta",
+     "Baja el consumo de pescado en hogares, pero la conserva se mantiene como forma cómoda de comerlo",
+     "Volumen total de pesca en hogares −4,4 % (MAPA, informe marzo 2026); compras de conservas de pescado +2,4 % en dic. 2025",
+     "https://www.mapa.gob.es/eu/dam/jcr:d0ec2147-ecf6-4b97-873e-6f0c9ec746d6/la-pesca-mes-a-mes-marzo-2026.pdf",
+     "2026",
+     "Mensaje de conveniencia + salud (omega-3, proteína) para captar a quien ya no cocina pescado fresco",
+     "dato"
+    ],
+    [
+     "Premiumización de la lata",
+     "La conserva pasa de despensa barata a producto gourmet de alto valor",
+     "Mejillones en escabeche a 19 €/lata (2026); Alimarket: 'la conserva se abre a nuevos públicos con propuestas de alto valor añadido'; Salón Gourmets 2026 anuncia +1.500 novedades",
+     "https://www.alimarket.es/alimentacion/noticia/394905/la-conserva-se-abre-a-nuevos-publicos-con-propuestas-de-alto-valor-anadido",
+     "2025-2026",
+     "Hay disposición a pagar más por origen y calidad; Serrats hoy no cobra prima frente a sus directos",
+     "estimación"
+    ],
+    [
+     "Presión de la marca de distribuidor",
+     "La MDD gana espacio en el lineal, sobre todo en atún",
+     "MDD ≈28 % del lineal de conservas de pescado y >30 % en atún (Alimarket, 8 tiendas de Madrid, 2024)",
+     "https://www.alimarket.es/alimentacion/informe/396919/analisis-2024-sobre-el-lineal-de-conservas-de-pescado-y-marisco",
+     "2024",
+     "La batalla premium no se gana en el lineal: venta directa, gourmet y marca",
+     "dato (muestra parcial)"
+    ],
+    [
+     "Materia prima del Cantábrico estable",
+     "Cuotas y precios en primera venta estables o al alza",
+     "Anchoa 2026: cuota 30.485 t (+1.875 t vs 2025), precio medio 1,94 €/kg. Bonito 2025: cuota estatal 26.000 t, ≈3,90 €/kg en lonjas vascas",
+     "https://www.euskadi.eus/gobierno-vasco/-/noticia/2025/leandro-azkue-4-agosto-flota-vasca-ha-pescado-7-100-toneladas-bonito-del-norte-60-todas-capturas-estatales",
+     "2025-2026",
+     "La costera y el origen son relato disponible y creíble ('pescado uno a uno', temporada)",
+     "dato"
+    ],
+    [
+     "'Tinned fish' como fenómeno cultural",
+     "La conserva se vuelve objeto de culto social, sobre todo en EE. UU. y redes",
+     "Ventas de conserva de pescado en EE. UU.: 2.700 M$ en 2022 (+9,7 %, Euromonitor vía WSJ); tendencia 'tinned fish date night' en TikTok; Tastewise 2026: demanda de sardinas +13 %",
+     "https://www.globalseafood.org/advocate/will-2024-be-the-year-of-the-tinned-fish/",
+     "2023-2026",
+     "Oportunidad doble: exportación a EE. UU. y contenido social; Serrats es la única del set con TikTok activo",
+     "dato + hipótesis"
+    ]
+   ]
+  },
+  {
+   "nombre": "Set competitivo",
+   "columnas": [
+    "Marca",
+    "Tipo",
+    "Referencia que representa",
+    "Por qué entra",
+    "Origen",
+    "Validado",
+    "Web"
+   ],
+   "filas": [
+    [
+     "Conservas Ortiz",
+     "directo",
+     "Líder en notoriedad del segmento",
+     "Bonito y anchoa del Cantábrico, premium, familiar desde 1891",
+     "sugerido por IA",
+     "sí",
+     "https://www.conservasortiz.com"
+    ],
+    [
+     "Conservas Nardín",
+     "directo",
+     "Mismo relato de tradición vasca, especialista en anchoa",
+     "Anchoa y bonito premium de Getaria/Zumaia, fuerte en export gourmet",
+     "sugerido por IA",
+     "sí",
+     "https://www.conservasnardin.com"
+    ],
+    [
+     "Conservas Zallo",
+     "directo",
+     "Rival local (Bermeo)",
+     "Mismo origen y gama; centenario en 2026",
+     "sugerido por IA",
+     "sí",
+     "https://zallo.com"
+    ],
+    [
+     "Don Bocarte",
+     "directo",
+     "Referente gourmet de anchoa",
+     "Anchoa ultrapremium de Santoña, fuerte en horeca y El Corte Inglés",
+     "sugerido por IA",
+     "sí",
+     "https://www.donbocarte.com"
+    ],
+    [
+     "Los Peperetes",
+     "referente",
+     "Referente de contenido y marca",
+     "Conserva gallega de culto, avalada por chefs y celebridades",
+     "sugerido por IA",
+     "sí",
+     "https://peperetes.com"
+    ]
+   ],
+   "nota": "Fuera del set: marcas de gran consumo (Calvo, Isabel, Albo), porque compiten en volumen y no en premium, y distribuidores como El Corte Inglés Gourmet."
+  },
+  {
+   "nombre": "Fichas",
+   "columnas": [
+    "Marca",
+    "Empresa",
+    "Fundación",
+    "Sede",
+    "Tamaño",
+    "Posicionamiento",
+    "Propuesta de valor",
+    "Cita textual",
+    "Gama",
+    "Producto estrella",
+    "Precio de referencia",
+    "Canales de venta",
+    "Web",
+    "Instagram",
+    "TikTok",
+    "Facebook",
+    "LinkedIn",
+    "YouTube",
+    "Otros canales",
+    "Tono y mensajes",
+    "Presencia digital",
+    "Hitos recientes",
+    "Fortalezas",
+    "Debilidades",
+    "¿Cumple la referencia?",
+    "Razón",
+    "Fuentes"
+   ],
+   "filas": [
+    [
+     "Conservas Serrats (cliente)",
+     "Hijos de José Serrats, S.A.",
+     "1890",
+     "Bermeo (Bizkaia)",
+     "90 empleados (eInforma 2026); ≈12,7 M€ facturación (año no indicado, duns100000)",
+     "Conservera familiar premium del Cantábrico, artesanal, 100 % natural y sostenible",
+     "Artesanal, natural, sin gluten; pionera del bonito en frasco de cristal; MSC; garantía de devolución; Club Serrats",
+     "«Pasión por lo auténtico» (serrats.com)",
+     "Bonito del norte, atún claro, anchoas y boquerones, sardinillas y marisco gallego, packs regalo",
+     "Bonito del norte en aceite de oliva, frasco 190 g",
+     "Bonito frasco 190 g: caja 6 = 35 € (≈5,83 €/ud; ≈3,05 €/100 g). Anchoa lata 50 g: caja 6 = 27 € (4,50 €/ud). Solo venta por cajas. Tienda online, 27/10/2026",
+     "Online propia + Club; gourmet/horeca vía distribuidores; Eroski, BM; export +25 países",
+     "https://www.serrats.com",
+     "https://www.instagram.com/serratsconservas/",
+     "https://www.tiktok.com/@serratsconservas",
+     "https://www.facebook.com/conservas.serrats",
+     "https://www.linkedin.com/company/conservas-serrats/",
+     "https://www.youtube.com/user/serratsconservas",
+     "Pinterest; X; blog +1.000 recetas; newsletter; podcast Conservaciones",
+     "Cercano, artesanal, emocional: autenticidad, familia, sostenibilidad, cultura conservera",
+     "IG 20.200 (ER 1,97 %; propio ≈0,25 %); TikTok 9.049 activo; YouTube ≈19.700 (verificar: otra fuente da 5.280) con serie mensual; FB 7.960; LinkedIn 1.148",
+     "Tuna Awards 2025 (Economía Circular, RESALTUN con AZTI); plan digital con Workoholics y LIN3S (+20 % facturación online, Aebrand Plata); serie Conservaciones 2026",
+     "Herencia creíble (1890, Bermeo); frasco de cristal icónico; relación directa (Club, recetas, branded content)",
+     "Venta online solo por cajas (35 € mínimo); contenido propio con poco engagement; poca prensa",
+     "—",
+     "Cliente",
+     "https://www.serrats.com/es/historia · https://www.einforma.com/informacion-empresa/hijos-jose-serrats · https://www.euskadi.eus/gobierno-vasco/-/noticia/2025/serrats-y-azti-ganadores-tuna-awards-categoria-economia-circular-proyecto-resaltun-que-reduce-desperdicio-alimentario/ · https://workoholics.es/en/work/conservas-serrats/"
+    ],
+    [
+     "Conservas Ortiz",
+     "Conservas Ortiz, S.A.",
+     "1891",
+     "Ondarroa (Bizkaia)",
+     "190 empleados (dato 2015); facturación no encontrada (no deposita cuentas según Empresite)",
+     "Marca histórica premium de conserva artesanal del Cantábrico, muy presente en gourmet nacional e internacional",
+     "Pescado de temporada, bonito 'pescado con caña uno a uno', 135 años de elaboración artesanal",
+     "«Solo así aseguramos que el Bonito del Norte que llega a tu mesa sea siempre el mejor.»",
+     "Bonito (muchas variedades, lata y tarro), anchoas (Serie Oro, Gran Anchoa), sardinas, atún, verdel, platos cocinados, eco, bajo en sal, hostelería",
+     "Bonito del norte en aceite de oliva; gama alta Reserva de Familia",
+     "Bonito lata 112 g: 3,32 € (≈2,96 €/100 g). Anchoa 47,5 g: 4,32 €. Club Ortiz, 27/10/2026",
+     "Online (Club Ortiz) + El Corte Inglés, Alcampo + hostelería + export (Brindisa UK, Kroger US)",
+     "https://www.conservasortiz.com",
+     "https://www.instagram.com/conservasortiz/",
+     "107 seguidores, 4 vídeos (no enlazado)",
+     "https://www.facebook.com/conservasortiz",
+     "≈3.023 (no enlazado en web)",
+     "https://www.youtube.com/@ConservasOrtiz",
+     "X; blog de recetas; newsletter Comunidad Ortiz",
+     "Clásico, herencia familiar, producto: 1891, cinco generaciones, mar y temporada",
+     "IG 18.000, 0,6 pub/sem, ER 0,44 %; YouTube 551 sin vídeos en 1 año; TikTok testimonial",
+     "Salón Gourmets 2024 y 2025; 135 años en 2026 sin campaña visible",
+     "Marca de referencia en gourmet nacional e internacional; gama y formatos muy amplios; relato de herencia",
+     "Comunicación digital poco activa; pocas novedades/prensa; poca transparencia (puntos de venta, cuentas)",
+     "Parcialmente",
+     "Es la marca más conocida, pero no ha trasladado su notoriedad a las redes ni a la conversación",
+     "https://www.conservasortiz.com/de-la-o-a-la-z/la-familia-ortiz/ · https://www.clubortiz.com/ · https://www.einforma.com/informacion-empresa/conservas-ortiz"
+    ],
+    [
+     "Conservas Nardín",
+     "Conservas Nardin, S.L.",
+     "1995 (familia en salazón desde inicios s. XX, origen siciliano)",
+     "Zumaia (Gipuzkoa); compra en la lonja de Getaria",
+     "Empleados y facturación no encontrados; vende en +15 países",
+     "Conservera familiar y artesanal especialista en anchoa de Getaria, orientada a gourmet y exportación",
+     "Producto de temporada, a mano, sin aditivos; MSC y Dolphin Safe; herencia siciliana; ahumados",
+     "«Capturadas exclusivamente en campaña y elaboradas artesanalmente»",
+     "Bonito (lata y frasco), ventresca, anchoas, salazón, boquerones, ahumados de Getaria",
+     "Anchoas del Cantábrico",
+     "Bonito lata 115 g: 3,75 € (≈3,26 €/100 g). Anchoa 50 g: 4,95 €. Tienda online, 27/10/2026",
+     "Online propia + distribuidores gourmet en +15 países (Brindisa, La Tienda, Waimea)",
+     "https://www.conservasnardin.com",
+     "https://www.instagram.com/conservasnardin/",
+     "no tiene",
+     "https://www.facebook.com/nardinconservas/",
+     "no encontrado",
+     "https://www.youtube.com/user/ConservasNardin",
+     "Blog de recetas semanal; WhatsApp comercial",
+     "Cálido, familiar, artesanal; sostenibilidad y sin aditivos",
+     "IG 2.316, ≈1 pub/sem, mediana 6 likes, ER 0,26 %; YouTube inactivo 7 años; FB 935",
+     "Sin noticias 2024–2026; blog activo",
+     "Credenciales de origen y artesanía; reconocimiento en gourmet internacional; precio de entrada accesible",
+     "Presencia social muy débil; sin PR; mensajes confusos (Nardín / Conservas Cantábrico)",
+     "No",
+     "Tiene el relato (familia, oficio) pero no lo cuenta: recetas genéricas con muy poca respuesta",
+     "https://www.conservasnardin.com/es/conoce-nardin/historia · https://www.conservasnardin.com/es/tienda-conservas-cantabrico"
+    ],
+    [
+     "Conservas Zallo",
+     "Conservas Zallo, S.A.",
+     "1926",
+     "Bermeo (Bizkaia)",
+     "No encontrado",
+     "Conservera familiar centenaria de Bermeo, gourmet, con venta directa online",
+     "Tradición desde 1926; pesca uno a uno; IFS, MSC, Dolphin Safe; apto celíacos; garantía de satisfacción; club Zallo+",
+     "«Algunos de nuestros productos han sido seleccionados en el Top 10 de los mejores del mundo»",
+     "Bonito (36 referencias, muchos formatos y salsas), anchoas Premium/Basic, atún, sardinas, pulpo, packs",
+     "Bonito del norte en aceite de oliva; ventresca Premium",
+     "Bonito lata 112 g: 3,40 €/ud en caja de 10 (≈3,04 €/100 g). Anchoa Premium 85 g: 10,90 €/ud. Tienda online, 27/10/2026",
+     "Online propia (por cajas) + El Corte Inglés, Eroski + Faire + export puntual",
+     "https://zallo.com",
+     "https://www.instagram.com/conservaszallo/",
+     "no tiene",
+     "https://www.facebook.com/conservaszallo",
+     "https://www.linkedin.com/company/conservas-zallo-sa/",
+     "https://www.youtube.com/channel/UCP-eSi34p1BrVcemITBsegQ",
+     "Blog SEO de recetas; club Zallo+",
+     "Cercano y práctico (recetas, batch cooking), orgullo de Bermeo, transaccional",
+     "IG 7.845, 2,7 pub/sem, ER 0,51 %; YouTube inactivo 3 años; FB 5.264; LinkedIn 378",
+     "Centenario 2026 con 'Especial Centenario'; Arrain Azoka 2025 y 2026; Salón Gourmets 2025",
+     "Credenciales claras (100 años, Bermeo, certificaciones); gama amplísima; incentivos a la compra directa",
+     "Venta solo por cajas; redes con poca tracción; respaldo de terceros poco visible",
+     "Parcialmente",
+     "Constante y con buen gancho (centenario), pero con poca repercusión fuera de su base",
+     "https://zallo.com/quienes-somos/ · https://zallo.com/especial-centenario/"
+    ],
+    [
+     "Don Bocarte",
+     "Conservas Selección Santoñesa, S.L.",
+     "1997",
+     "Santoña (Cantabria)",
+     "No encontrado; distribución en +20 países",
+     "Conservera premium de Santoña especializada en anchoa, con platos de 'cocina de autor' para horeca",
+     "Selección rigurosa, elaboración cuidada e innovación de producto",
+     "«La diferenciación, basada en la calidad y desarrollo de productos novedosos, es nuestra principal ventaja competitiva.»",
+     "Anchoas en muchos calibres (Serie Numerada, eco), bonito en varios cortes, atún rojo, bombas y croquetas",
+     "Anchoas del Cantábrico en AOVE",
+     "Anchoa 100 g: 15,95 € (15,95 €/100 g). Bonito lata 120 g: 5,82 € (≈4,85 €/100 g). Tienda online, 27/10/2026 (mucho producto agotado)",
+     "Online propia + El Corte Inglés / Club del Gourmet + horeca + export",
+     "https://www.donbocarte.com",
+     "https://www.instagram.com/donbocarte_productos_gourmet/",
+     "no tiene",
+     "no encontrado",
+     "no encontrado",
+     "solo un vídeo enlazado",
+     "X @donbocarte; blog parado desde 2021",
+     "Corporativo y de producto: liderazgo, Santoña, innovación",
+     "IG 4.498 sin publicar desde dic. 2025; sin más redes activas",
+     "Salón Gourmets 2024 y 2025; nada destacable 2025–2026",
+     "Credibilidad de origen (Santoña); presencia en El Corte Inglés; surtido horeca",
+     "Roturas de stock (38 de 74 productos disponibles); presencia digital abandonada; mensaje genérico",
+     "No",
+     "Referente en producto y precio, pero no en marca ni en contenido",
+     "https://www.donbocarte.com/pages/coocenos · https://www.donbocarte.com/collections/anchoas"
+    ],
+    [
+     "Los Peperetes",
+     "JELOPA, S.L.",
+     "1991–1993 (fuentes no coinciden)",
+     "Carril, Vilagarcía de Arousa (Pontevedra)",
+     "≈1 M€ ventas, 18 empleados (Empresia; verificar)",
+     "Conserva artesanal gallega de lujo y producción limitada, avalada por chefs y celebridades",
+     "100 % natural, a mano, recetas familiares, km0 de la ría de Arousa, producción limitada",
+     "«Ser la conservera mejor valorada por los consumidores y los profesionales de la restauración.»",
+     "Pescado (sardinillas, ventresca), marisco (berberechos por calibre, navajas, zamburiñas), packs, 'Más que latas'",
+     "Sardinillas en aceite de oliva (Beckham, José Andrés)",
+     "Sardinillas 120 g: 11 € (≈9,17 €/100 g); ventresca en mantequilla: 21 €. Tienda online, 27/10/2026 (casi todo sin stock)",
+     "Online propia + El Corte Inglés Club del Gourmet + gourmet + Faire + export a 20 países (José Andrés en EE. UU.)",
+     "https://peperetes.com",
+     "https://www.instagram.com/conservaspeperetes/",
+     "no encontrado",
+     "no encontrado",
+     "no encontrado",
+     "no encontrado",
+     "Blog (parado desde 2024); visitas al obrador",
+     "Artesanal, familiar, de origen; prueba social de celebridades",
+     "IG 54.000, 2,2 pub/sem, mediana 331 likes, ER 1,27 % (reels propios 1,06 %)",
+     "José Andrés la recomienda en su newsletter y pódcast (2026); paté de mejillón DOP (2024); navajas premiadas",
+     "Prueba social de celebridades; origen y artesanía muy creíbles; precio de lujo justificado",
+     "Roturas de stock; experiencia web pobre; solo Instagram",
+     "Sí",
+     "Es el referente de cómo el relato familiar y los avales convierten una conserva en objeto de culto",
+     "https://peperetes.com · https://www.directoalpaladar.com/viajes/estas-sardinas-gallegas-que-jose-andres-abre-aviones-cuando-no-le-gusta-comida · https://www.empresia.es/empresa/jelopa/"
+    ]
+   ]
+  },
+  {
+   "nombre": "Comparativa",
+   "columnas": [
+    "Marca",
+    "Segmento de precio",
+    "Precio de referencia",
+    "Posicionamiento (resumen)",
+    "Canal de venta principal",
+    "Seguidores IG",
+    "Engagement IG",
+    "Redes activas",
+    "Diferencial principal"
+   ],
+   "filas": [
+    [
+     "Conservas Serrats",
+     "Premium",
+     "Bonito ≈3,05 €/100 g · anchoa ≈9,0 €/100 g",
+     "Premium familiar, frasco de cristal, branded content",
+     "Online propia + gourmet/export",
+     20200,
+     "1,97 % (propio ≈0,25 %)",
+     "IG, TikTok, YouTube, FB, LinkedIn, Pinterest",
+     "Branded content (Conservaciones) y única con TikTok"
+    ],
+    [
+     "Conservas Ortiz",
+     "Premium",
+     "Bonito ≈2,96 €/100 g · anchoa ≈9,1 €/100 g",
+     "Marca histórica de referencia",
+     "Gran distribución gourmet + export",
+     18000,
+     "0,44 %",
+     "IG, FB (YouTube y TikTok inactivos)",
+     "Notoriedad y distribución"
+    ],
+    [
+     "Conservas Nardín",
+     "Premium",
+     "Bonito ≈3,26 €/100 g · anchoa ≈9,9 €/100 g",
+     "Artesana especialista en anchoa",
+     "Export gourmet",
+     2316,
+     "0,26 %",
+     "IG, FB",
+     "Anchoa de Getaria y presencia internacional"
+    ],
+    [
+     "Conservas Zallo",
+     "Premium",
+     "Bonito ≈3,04 €/100 g · anchoa ≈12,8 €/100 g",
+     "Centenaria de Bermeo, venta directa",
+     "Online propia + ECI",
+     7845,
+     "0,51 %",
+     "IG, FB, LinkedIn",
+     "Gama amplísima y centenario"
+    ],
+    [
+     "Don Bocarte",
+     "Ultrapremium",
+     "Bonito ≈4,85 €/100 g · anchoa ≈15,95 €/100 g",
+     "Anchoa top de Santoña, horeca",
+     "Horeca + ECI",
+     4498,
+     "0,41 % (sin publicar desde dic. 2025)",
+     "IG (inactivo)",
+     "Anchoa de calibre y horeca"
+    ],
+    [
+     "Los Peperetes",
+     "Lujo",
+     "Sardinillas ≈9,17 €/100 g",
+     "Conserva de culto avalada por chefs",
+     "Gourmet + export",
+     54000,
+     "1,27 % (reels propios 1,06 %)",
+     "IG",
+     "Prueba social de chefs y celebridades"
+    ]
+   ],
+   "nota": "Precio por 100 g de peso neto, en la tienda online de cada marca, a 27/10/2026."
+  },
+  {
+   "nombre": "Posicionamiento",
+   "columnas": [
+    "Marca",
+    "Posición X",
+    "Posición Y",
+    "Justificación"
+   ],
+   "filas": [
+    [
+     "Eje X: precio (1 = accesible, 5 = lujo)",
+     "Eje Y: marca cultural (1 = catálogo de producto, 5 = marca con relato y comunidad)",
+     null,
+     null
+    ],
+    [
+     "Conservas Serrats",
+     3,
+     4,
+     "Precio en línea con los directos; branded content propio (Conservaciones, Historias en Conserva)"
+    ],
+    [
+     "Conservas Ortiz",
+     3,
+     2,
+     "Mismo precio; relato de herencia pero comunicación de producto y poco activa"
+    ],
+    [
+     "Conservas Nardín",
+     3,
+     1,
+     "Precio similar; comunicación de recetas sin relato"
+    ],
+    [
+     "Conservas Zallo",
+     3,
+     2,
+     "Precio similar; relato del centenario y contenido práctico"
+    ],
+    [
+     "Don Bocarte",
+     4,
+     1,
+     "Más caro; comunicación corporativa y abandonada"
+    ],
+    [
+     "Los Peperetes",
+     5,
+     5,
+     "Precio de lujo; marca de culto con avales y relato familiar"
+    ]
+   ]
+  },
+  {
+   "nombre": "Oportunidades y amenazas",
+   "columnas": [
+    "Tipo",
+    "Descripción",
+    "Evidencia",
+    "Fuente o ficha relacionada",
+    "Prioridad"
+   ],
+   "filas": [
+    [
+     "oportunidad",
+     "Cobrar prima de marca: Serrats tiene precio de paridad con Ortiz, Zallo y Nardín (≈3 €/100 g de bonito) pero más marca y contenido",
+     "Fichas: precios de referencia; Peperetes demuestra disposición a pagar por relato",
+     "Fichas · Posicionamiento",
+     "alta"
+    ],
+    [
+     "oportunidad",
+     "Ocupar el hueco digital: ningún directo lidera la conversación (ER ≤0,51 %, YouTube y TikTok abandonados)",
+     "Fichas · presencia digital",
+     "Fichas · Comparativa",
+     "alta"
+    ],
+    [
+     "oportunidad",
+     "Avales de chefs y prescriptores, como Peperetes con José Andrés: Serrats ya trabaja con ZMARE / Xabi Gutiérrez",
+     "Peperetes: recomendación de José Andrés 2026",
+     "Ficha Peperetes",
+     "media"
+    ],
+    [
+     "oportunidad",
+     "Exportación con relato a EE. UU. aprovechando el 'tinned fish' (Serrats exporta desde 1914)",
+     "Tendencia 'tinned fish'; exportación +6,7 % en valor",
+     "Tendencias",
+     "media"
+    ],
+    [
+     "oportunidad",
+     "Quitar fricción de compra online (unidades sueltas o packs de prueba): Ortiz y Nardín venden por unidad",
+     "Serrats y Zallo solo venden por cajas",
+     "Fichas · canales",
+     "alta"
+    ],
+    [
+     "amenaza",
+     "Peperetes ya ocupa el lugar de 'conserva de culto' en redes y prensa",
+     "54.000 seguidores; avales de celebridades",
+     "Ficha Peperetes",
+     "media"
+    ],
+    [
+     "amenaza",
+     "Zallo, mismo origen (Bermeo) y precio, con el gancho del centenario en 2026",
+     "Especial Centenario",
+     "Ficha Zallo",
+     "media"
+    ],
+    [
+     "amenaza",
+     "Ortiz podría activar su notoriedad en digital en cualquier momento",
+     "Marca más conocida del segmento",
+     "Ficha Ortiz",
+     "baja"
+    ],
+    [
+     "amenaza",
+     "La MDD presiona precio y lineal en atún y bonito",
+     "MDD ≈28 % del lineal",
+     "Tendencias",
+     "media"
+    ]
+   ]
+  },
+  {
+   "nombre": "Validar",
+   "columnas": [
+    "Hipótesis",
+    "Por qué importa",
+    "Cómo validarla"
+   ],
+   "filas": [
+    [
+     "¿El consumidor percibe diferencia entre Serrats y Ortiz/Zallo que justifique una prima de precio?",
+     "Decide si la palanca es precio/margen o volumen",
+     "Test de precio o encuesta a compradores del Club Serrats"
+    ],
+    [
+     "¿Cuántos suscriptores tiene realmente YouTube (19.700 vs 5.280) y hay dos canales?",
+     "Cambia el diagnóstico de YouTube",
+     "Acceso a YouTube Studio del cliente"
+    ],
+    [
+     "¿Qué peso tienen la venta online, el gourmet, la gran distribución y la exportación en la facturación?",
+     "Define dónde compite de verdad Serrats",
+     "Datos internos del cliente"
+    ],
+    [
+     "¿La venta solo por cajas frena la primera compra online?",
+     "Fricción detectada frente a Ortiz/Nardín",
+     "Analítica de la tienda (abandono de carrito) y test A/B"
+    ]
+   ]
+  },
+  {
+   "nombre": "Fuentes",
+   "columnas": [
+    "Nº",
+    "Título",
+    "URL",
+    "Fecha de consulta",
+    "Usada en"
+   ],
+   "filas": [
+    [
+     1,
+     "ANFACO: balance exportación 2025 (Interempresas)",
+     "https://www.interempresas.net/Industria-Pescado/649989-industria-espanola-mar-impulsa-exportaciones-mientras-consumo-interno-sigue-baja.html",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     2,
+     "ANFACO: datos del sector 2025",
+     "https://anfaco.es/wp-content/uploads/2026/04/Datos-sector-2025-vpub.pdf",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     3,
+     "MAPA: La pesca mes a mes, marzo 2026",
+     "https://www.mapa.gob.es/eu/dam/jcr:d0ec2147-ecf6-4b97-873e-6f0c9ec746d6/la-pesca-mes-a-mes-marzo-2026.pdf",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     4,
+     "MAPA: La pesca mes a mes, diciembre 2025",
+     "https://www.mapa.gob.es/ca/dam/jcr:08bdeea2-c18d-4ffb-bb36-097337b3319e/la-pesca-mes-a-mes-diciembre-2025.pdf",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     5,
+     "Alimarket: la conserva se abre a nuevos públicos",
+     "https://www.alimarket.es/alimentacion/noticia/394905/la-conserva-se-abre-a-nuevos-publicos-con-propuestas-de-alto-valor-anadido",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     6,
+     "Alimarket: análisis 2024 del lineal de conservas",
+     "https://www.alimarket.es/alimentacion/informe/396919/analisis-2024-sobre-el-lineal-de-conservas-de-pescado-y-marisco",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     7,
+     "Gobierno Vasco: costera del bonito 2025",
+     "https://www.euskadi.eus/gobierno-vasco/-/noticia/2025/leandro-azkue-4-agosto-flota-vasca-ha-pescado-7-100-toneladas-bonito-del-norte-60-todas-capturas-estatales",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     8,
+     "Onda Vasca: campaña de anchoa 2026",
+     "https://www.ondavasca.com/la-flota-vasca-roza-el-pleno-en-la-campana-de-la-anchoa-y-arranca-con-fuerza-la-campana-del-bonito/",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     9,
+     "Global Seafood Alliance: tinned fish",
+     "https://www.globalseafood.org/advocate/will-2024-be-the-year-of-the-tinned-fish/",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     10,
+     "Esdiario: mejillones a 19 € la lata",
+     "https://www.esdiario.com/chismografo/tendencias/260129/178291/mejillones-escabeche-valen-peso-oro-19-euros-lata-8-piezas.html",
+     "27/10/2026",
+     "Tendencias"
+    ],
+    [
+     11,
+     "Serrats: historia",
+     "https://www.serrats.com/es/historia",
+     "27/10/2026",
+     "Ficha Serrats"
+    ],
+    [
+     12,
+     "Gobierno Vasco: Tuna Awards 2025 Serrats-AZTI",
+     "https://www.euskadi.eus/gobierno-vasco/-/noticia/2025/serrats-y-azti-ganadores-tuna-awards-categoria-economia-circular-proyecto-resaltun-que-reduce-desperdicio-alimentario/",
+     "27/10/2026",
+     "Ficha Serrats"
+    ],
+    [
+     13,
+     "Workoholics: caso Conservas Serrats",
+     "https://workoholics.es/en/work/conservas-serrats/",
+     "27/10/2026",
+     "Ficha Serrats"
+    ],
+    [
+     14,
+     "Ortiz: la familia Ortiz",
+     "https://www.conservasortiz.com/de-la-o-a-la-z/la-familia-ortiz/",
+     "27/10/2026",
+     "Ficha Ortiz"
+    ],
+    [
+     15,
+     "Club Ortiz (tienda)",
+     "https://www.clubortiz.com/",
+     "27/10/2026",
+     "Ficha Ortiz"
+    ],
+    [
+     16,
+     "Nardín: historia",
+     "https://www.conservasnardin.com/es/conoce-nardin/historia",
+     "27/10/2026",
+     "Ficha Nardín"
+    ],
+    [
+     17,
+     "Nardín: tienda",
+     "https://www.conservasnardin.com/es/tienda-conservas-cantabrico",
+     "27/10/2026",
+     "Ficha Nardín"
+    ],
+    [
+     18,
+     "Zallo: quiénes somos",
+     "https://zallo.com/quienes-somos/",
+     "27/10/2026",
+     "Ficha Zallo"
+    ],
+    [
+     19,
+     "Zallo: especial centenario",
+     "https://zallo.com/especial-centenario/",
+     "27/10/2026",
+     "Ficha Zallo"
+    ],
+    [
+     20,
+     "Don Bocarte: conócenos",
+     "https://www.donbocarte.com/pages/coocenos",
+     "27/10/2026",
+     "Ficha Don Bocarte"
+    ],
+    [
+     21,
+     "Don Bocarte: anchoas",
+     "https://www.donbocarte.com/collections/anchoas",
+     "27/10/2026",
+     "Ficha Don Bocarte"
+    ],
+    [
+     22,
+     "Peperetes: web",
+     "https://peperetes.com",
+     "27/10/2026",
+     "Ficha Peperetes"
+    ],
+    [
+     23,
+     "Directo al Paladar: José Andrés y Peperetes",
+     "https://www.directoalpaladar.com/viajes/estas-sardinas-gallegas-que-jose-andres-abre-aviones-cuando-no-le-gusta-comida",
+     "27/10/2026",
+     "Ficha Peperetes"
+    ],
+    [
+     24,
+     "Empresia: JELOPA SL",
+     "https://www.empresia.es/empresa/jelopa/",
+     "27/10/2026",
+     "Ficha Peperetes"
+    ]
+   ]
+  }
+ ]
+}
