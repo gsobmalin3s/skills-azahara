@@ -20,12 +20,6 @@ Las skills se activan solas cuando pides algo como "audítame las redes de X" o 
 - **Búsqueda web** para el análisis de sector.
 - **Python 3 + `openpyxl`** para generar los Excel.
 
-## Ejemplos
-
-[`examples/serrats/`](examples/serrats/) tiene los Excel generados en las pruebas con Conservas Serrats (octubre de 2026) y los JSON de datos de los que salen:
-
-- `Auditoria_redes_Serrats_2026-10-21.xlsx`: auditoría de redes en modo cliente (sin sesión iniciada).
-- `Analisis_sector_competencia_Serrats_2026-10-27.xlsx`: análisis de sector y competencia en modo contexto (1.5), con Ortiz, Nardín, Zallo, Don Bocarte y Los Peperetes.
 
 ## Regenerar los `.skill`
 
